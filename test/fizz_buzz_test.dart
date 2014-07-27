@@ -1,5 +1,5 @@
 import 'package:unittest/unittest.dart';
-import 'fizz_buzz.dart';
+import '../lib/fizz_buzz.dart';
 
 void main() {
   test('Should be 1 when input 1', () {
